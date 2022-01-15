@@ -1,0 +1,2 @@
+# ROG-STRIX-Z370-I-GAMING
+OpenCore 0.7.7
