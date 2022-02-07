@@ -12,8 +12,6 @@ SSD|Kingston NV1 500Gb|
 iGPU|UHD630|`igfxonln=1` for monitor wake up after sleep
 WiFi/BT|Fenvi BCM94360NG|
 
-*USB ports are configured including the front panel (different in each case).
-
 What works
 -
 • Everything
