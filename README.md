@@ -5,7 +5,7 @@ Hardware
 -
 Part|Model|Remarks
 |-|-|-|
-Motherboard|Asus Z390-I Gaming|
+Motherboard|Asus Z370-I Gaming|
 CPU|i7-8700k|
 RAM|Goodram 1x16Gb 2333MHz|
 SSD|Kingston NV1 500Gb|
