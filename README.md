@@ -9,7 +9,6 @@ Motherboard|Asus Z370-I Gaming|
 CPU|i7-9700k|
 RAM|Corsair Vengeance Pro SL 2x16Gb 3600MHz|
 SSD|Corsair MP600 CORE XT 2x1Tb|
-iGPU|UHD630|
 dGPU|Asus Dual RX 6600 XT|
 WiFi/BT|Fenvi BCM94360NG|
 
