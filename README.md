@@ -13,7 +13,8 @@ Motherboard|Asus Z370-I Gaming
 CPU|i7-9700k
 RAM|Corsair Vengeance Pro SL 2x16Gb 3600MHz
 SSD|Corsair MP600 CORE XT 2x1Tb
-GPU|Asus Dual RX 6600 XT|works with `agdpmod=pikera`
+iGPU|HD Graphics UHD630
+dGPU|Asus Dual RX 6600 XT|`agdpmod=pikera` to get display out
 WiFi/BT|Fenvi BCM94360NG|requires OCLP on Sonoma
 
 Not working / untested:
@@ -28,7 +29,7 @@ Motherboard|Asus Z370-I Gaming|
 CPU|i7-8700k|
 RAM|Goodram 1x16Gb 2333MHz|
 SSD|Kingston NV1 500Gb|
-iGPU|UHD630|`igfxonln=1` for monitor wake up after sleep
+iGPU|HD Graphics UHD630|`igfxonln=1` for monitor to wake up after sleep
 WiFi/BT|Fenvi BCM94360NG|requires OCLP on Sonoma
 
 Not working / untested:
