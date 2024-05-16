@@ -1,12 +1,9 @@
 # ROG-STRIX-Z370-I-GAMING OpenCore
-OpenCore for ASUS ROG STRIX Z370-I GAMING
 
-# Version List
-Versions, hardware, what works and what doesn't work or untested.
+⚠️ _**WARNING!** This branch is extremely unstable, might not work and is used **ONLY** for testing purposes! Please, do **NOT** use it unless you know what you do!_
 
- 1.0.1
--
-Hardware tested:
+OpenCore v1.0.1
+
 Part|Model|Remarks
 |-|-|-|
 Motherboard|Asus Z370-I Gaming
@@ -16,22 +13,3 @@ SSD|Corsair MP600 CORE XT 2x1Tb
 iGPU|HD Graphics UHD630
 dGPU|Asus Dual RX 6600 XT|`agdpmod=pikera` to get display out
 WiFi/BT|Fenvi BCM94360NG|requires OCLP on Sonoma
-
-Not working / untested:
-* Testing in progress
-
-0.7.7
--
-Hardware tested:
-Part|Model|Remarks
-|-|-|-|
-Motherboard|Asus Z370-I Gaming|
-CPU|i7-8700k|
-RAM|Goodram 1x16Gb 2333MHz|
-SSD|Kingston NV1 500Gb|
-iGPU|HD Graphics UHD630|`igfxonln=1` for monitor to wake up after sleep
-WiFi/BT|Fenvi BCM94360NG|requires OCLP on Sonoma
-
-Not working / untested:
-* DRM (not tested, can be fixed by using dGPU)
-* Integrated audio (I don't use, but it can be be easily fixed)
