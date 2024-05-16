@@ -6,6 +6,8 @@ Versions, hardware, what works and what doesn't work or untested.
 
  1.0.1
 -
+Release - https://github.com/maxonlinux/Opencore-for-Asus-ROG-z370-I-Gaming-Motherboard/releases/tag/1.0.1
+
 Hardware tested:
 Part|Model|Remarks
 |-|-|-|
@@ -20,8 +22,11 @@ WiFi/BT|Fenvi BCM94360NG|requires OCLP on Sonoma
 Not working / untested:
 * Testing in progress
 
+
 0.7.7
 -
+Release - https://github.com/maxonlinux/Opencore-for-Asus-ROG-z370-I-Gaming-Motherboard/releases/tag/0.7.7
+
 Hardware tested:
 Part|Model|Remarks
 |-|-|-|
