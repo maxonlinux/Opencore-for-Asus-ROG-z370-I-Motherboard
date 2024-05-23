@@ -4,6 +4,30 @@ OpenCore for ASUS ROG STRIX Z370-I GAMING
 # Version List
 Versions, hardware, what works and what doesn't work or untested.
 
+ 1.0.1 v2
+-
+Release - https://github.com/maxonlinux/Opencore-for-Asus-ROG-z370-I-Gaming-Motherboard/releases/tag/1.0.1-v2
+
+System version:
+
+OS|Version|Number
+|-|-|-|
+|Sonoma|13.6.7|(22G720)|
+
+Hardware tested:
+Part|Model|Remarks
+|-|-|-|
+Motherboard|Asus Z370-I Gaming
+CPU|i7-9700k
+RAM|Corsair Vengeance Pro SL 2x16Gb 3600MHz
+SSD|Corsair MP600 CORE XT 2x1Tb
+iGPU|HD Graphics UHD630
+dGPU|Asus Dual RX 6600 XT|`agdpmod=ingore` to get display out
+WiFi/BT|Fenvi BCM94360NG|requires OCLP on Sonoma
+
+Not working / untested:
+* Everything works
+
  1.0.1
 -
 Release - https://github.com/maxonlinux/Opencore-for-Asus-ROG-z370-I-Gaming-Motherboard/releases/tag/1.0.1
