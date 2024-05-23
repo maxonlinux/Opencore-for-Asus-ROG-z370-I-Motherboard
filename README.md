@@ -27,6 +27,7 @@ WiFi/BT|Fenvi BCM94360NG|requires OCLP on Sonoma
 
 Not working / untested:
 * Everything works
+* STRONGLY RECOMMENDED TO MAKE YOUR OWN USB MAP
 
  1.0.1
 -
