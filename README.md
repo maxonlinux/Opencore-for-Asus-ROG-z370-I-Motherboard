@@ -12,7 +12,7 @@ System version:
 
 OS|Version|Number
 |-|-|-|
-|Sonoma|13.6.7|(22G720)|
+|Ventura|13.6.7|(22G720)|
 
 Hardware tested:
 Part|Model|Remarks
